@@ -1,2 +1,2 @@
 # GoogleAIPlatform
-Google Vertex AI Platform
+Google Vertex AI Platform/ GenAI
